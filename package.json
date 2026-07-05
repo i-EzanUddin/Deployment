@@ -1,0 +1,18 @@
+{
+  "name": "first_lecture",
+  "version": "1.0.0",
+  "description": "Deploying code at production level",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Ezan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
